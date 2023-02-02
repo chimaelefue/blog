@@ -1,0 +1,12 @@
+.headBar{
+    display: flex;
+    font-size: 2rem;
+    font-weight: 800;
+    justify-content: space-around;
+    color: rgb(32, 32, 32);
+    height: 70px;
+    /* width: 100vw; */
+    /* margin-bottom: 10px; */
+    background-color: chocolate;
+    max-width: 100%;
+}
